@@ -20,6 +20,6 @@
 .servicesText:hover{
  border: 1px solid #008000;
 }
-.navbarScroll.navbarPurple{
-    background-color: purple;
+.navbarScroll.navbarDark{
+    background-color: black;
 }
